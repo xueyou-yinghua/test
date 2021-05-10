@@ -1,0 +1,21 @@
+@import "font/iconfont.css";
+*{
+  margin: 0;
+  padding: 0;
+  font: 23px "微软雅黑";
+}
+
+body,html,#sakura{
+  height: 100%;
+}
+
+#sakura{
+  position: relative;
+}
+
+a{
+  text-decoration: none;
+}
+button,input{
+  outline: none;
+}
